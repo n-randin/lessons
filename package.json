@@ -1,0 +1,17 @@
+{
+  "name": "lesson1",
+  "version": "4.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node coloredDialog.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
